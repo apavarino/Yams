@@ -1,15 +1,8 @@
 ## Yams
 
-* Année : 2018
-* Contexte : Projet personnel
-* Type : Jeu
-* Langage  : JAVA
-* Bibliothèque : libgdx
-
-
 ### Description
 
-Il s'agit dune reproduction simple du jeu du yams. L'objectif étant ici de découvrir et manipuler un peu libgdx. Le joueur a donc 3 lancés de dès, il peut choisir de garder ou non certains dès entre chaque lancé puis il doit choisir quelle case il souhaite remplir. L'interêt ici est que les points sont calculés automatiquement !
+This is a simple reproduction of the yams. The objective here is to discover and manipulate libgdx a little. The player therefore has 3 dice throws, he can choose whether or not to keep certain dice between each throw, then he must choose which square he wishes to fill.
 
 ## Screen
 
